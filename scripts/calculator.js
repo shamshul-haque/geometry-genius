@@ -20,9 +20,9 @@ function rectangleArea() {
   console.log(area);
 }
 
-// function parallelogramArea() {
-//   const base = getInput("parallelogram-base");
-//   const height = getInput("parallelogram-height");
-//   const area = base * height;
-//   console.log(area);
-// }
+function parallelogramArea() {
+  const base = getInput("parallelogram-base");
+  const height = getInput("parallelogram-height");
+  const area = base * height;
+  console.log(area);
+}
